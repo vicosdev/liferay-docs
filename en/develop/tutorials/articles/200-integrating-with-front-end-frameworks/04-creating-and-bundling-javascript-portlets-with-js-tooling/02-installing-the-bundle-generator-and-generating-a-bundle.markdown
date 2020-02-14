@@ -38,7 +38,7 @@ Follow these steps to create your JavaScript widget:
 
 2.  Install [Yeoman](http://yeoman.io/) for the generator:
 
-        npm install -g yeoman
+        npm install -g yo
 
 3.  Install the Liferay JS Generator:
 
